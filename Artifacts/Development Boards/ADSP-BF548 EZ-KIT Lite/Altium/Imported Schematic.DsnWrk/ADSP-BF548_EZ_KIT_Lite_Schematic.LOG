@@ -1,0 +1,92 @@
+Importer Log Report
+Project : ADSP-BF548_EZ_KIT_Lite_Schematic.DsnWrk
+
+Section : Import Document - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic
+    Section : Translate - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic
+        Section : Translate sheet - a0206-2006.1
+        EndSection
+
+        Section : Translate sheet - a0206-2006.2
+        EndSection
+
+        Section : Translate sheet - a0206-2006.3
+        EndSection
+
+        Section : Translate sheet - a0206-2006.4
+        EndSection
+
+        Section : Translate sheet - a0206-2006.5
+        EndSection
+
+        Section : Translate sheet - a0206-2006.6
+        EndSection
+
+        Section : Translate sheet - a0206-2006.7
+        EndSection
+
+        Section : Translate sheet - a0206-2006.8
+        EndSection
+
+        Section : Translate sheet - a0206-2006.9
+        EndSection
+
+        Section : Translate sheet - a0206-2006.10
+        EndSection
+
+        Section : Translate sheet - a0206-2006.11
+        EndSection
+
+        Section : Translate sheet - a0206-2006.12
+        EndSection
+
+        Section : Translate sheet - a0206-2006.13
+        EndSection
+
+        Section : Translate sheet - a0206-2006.14
+        EndSection
+
+        Section : Translate sheet - a0206-2006.15
+        EndSection
+
+        Section : Translate sheet - a0206-2006.16
+        EndSection
+
+        Section : Translate sheet - a0206-2006.17
+        EndSection
+
+        Section : Translate sheet - mxvr.1
+        EndSection
+    EndSection
+
+    Section : Translate library - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\bd_rev.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\csheet.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\ICS_ADSPBF548_A.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\ICS_ADSPBF548_B.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\ICS_ADSPBF548_C.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\ICS_ADSPBF548_D.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\ICS_ADSPBF548_E.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\ICS_ADSPBF548_F.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\ICS_ADSPBF548_G.1
+        EndSection
+
+        Section : Read symbol - C:\Users\altay\Downloads\Mars Robotics\ADSP-BF548_EZ-KIT_Lite_Design_Reference_Info_Rev1.4\ADSP-BF548_EZ_KIT_Lite_Schematic\sym\mxvr.1
+        EndSection
+    EndSection
+EndSection

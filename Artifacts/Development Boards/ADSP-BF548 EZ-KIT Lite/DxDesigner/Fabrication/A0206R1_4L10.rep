@@ -1,0 +1,70 @@
+
+
+Photo-Plotter Apertures Report
+==============================
+Position  Width  Hgt/ID  Shape    Qty
+========  =====  ======  =====    ===
+   22       40       0    RND       4
+   37       29       0    RND     395
+   45       63       0    SQR       1
+   46       75       0    SQR       1
+   47       75       0    RND      16
+   48      100       0    RND       4
+   49      175       0    RND       5
+   53       62       0    RND     219
+   58       62       0    SQR      22
+   66       35       0    RND       1
+   69      200       0    RND      10
+   72       55       0    SQR       1
+   77       20       0    RND    2021
+   79       50       0    RND       9
+   81       30       0    RND     279
+   82       55       0    RND      59
+   112       21       0    RND      78
+   124       65       0    RND      27
+   133       30      50    RECT     16
+   140       52      55    RECT     54
+   141       55      52    RECT     24
+   142      70.9      63    RECT     20
+   143       63     70.9    RECT      4
+   154      130      50    RECT      2
+   155       50     130    RECT      2
+   184       43      40    RECT     70
+   186       29     115    OVAL    180
+   187      115      29    OVAL     90
+   188       50      30    RECT     14
+   281       40      43    RECT     12
+   284       70      25    RECT      5
+   291      16.54       0    RND     415
+   294       85       0    LINE
+   295       52       0    RND      26
+   296      250       0    RND       7
+   299       12       0    LINE
+   306       10       0    LINE
+   312       63       0    RND       7
+   313      111       0    RND       4
+   321       77       0    RND       2
+   322        5       0    LINE
+   325       85       0    RND       5
+   326       60       0    RND       4
+   327       85       0    SQR       1
+   329       91       0    LINE
+   330       32       0    SQRL     96
+   333        6       0    LINE
+   334       15       0    LINE
+   335       25       0    LINE
+   342       35       0    LINE
+   343        8       0    LINE
+   344       11       0    LINE
+   345       22       0    LINE
+   353        7       0    LINE
+   356      2.5       0    LINE
+   357      3.5       0    LINE
+   360       20       0    LINE
+   466      27.56       0    SQRL    304
+   474      12.6       0    LINE
+
+
+
+
+

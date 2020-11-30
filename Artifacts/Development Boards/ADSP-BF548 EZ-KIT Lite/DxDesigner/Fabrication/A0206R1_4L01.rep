@@ -1,0 +1,111 @@
+
+
+Photo-Plotter Apertures Report
+==============================
+Position  Width  Hgt/ID  Shape    Qty
+========  =====  ======  =====    ===
+   22       40       0    RND       9
+   37       29       0    RND     395
+   45       63       0    SQR       1
+   46       75       0    SQR       1
+   47       75       0    RND      16
+   48      100       0    RND       4
+   49      175       0    RND       5
+   52       15       0    RND     400
+   53       62       0    RND     219
+   58       62       0    SQR      22
+   66       35       0    RND       1
+   67       42       0    RND       3
+   69      200       0    RND      10
+   72       55       0    SQR       1
+   74       19       0    RND      64
+   77       20       0    RND    2021
+   79       50       0    RND       3
+   81       30       0    RND     279
+   82       55       0    RND      59
+   112       21       0    RND      78
+   124       65       0    RND      27
+   132       25      75    OVAL     32
+   133       30      50    RECT     18
+   135       75      25    OVAL     24
+   140       52      55    RECT     58
+   141       55      52    RECT     44
+   142      70.9      63    RECT     10
+   143       63     70.9    RECT      6
+   150       80      40    RECT     18
+   153       25      70    RECT      5
+   155       50     130    RECT      2
+   157      70.87     78.74    RECT     16
+   158       40      16    OVAL      8
+   168       70      15    OVAL     40
+   184       43      40    RECT    100
+   188       50      30    RECT     65
+   235       40      20    RECT      6
+   245       55      35    RECT      2
+   281       40      43    RECT     50
+   284       70      25    RECT     13
+   291      16.54       0    RND     415
+   294       85       0    LINE
+   295       52       0    RND      26
+   296      250       0    RND       7
+   297       40       0    SQRL     23
+   299       12       0    LINE
+   300       25       0    SQRL     12
+   301      11.81       0    SQRL     64
+   302      135.83       0    SQR       2
+   303       24       0    SQRL     78
+   304       16       0    LINE
+   305       30       0    SQRL     16
+   306       10       0    LINE
+   307       15       0    SQRL     66
+   308      59.06       0    SQRL      2
+   309      161.02       0    SQRL      4
+   312       63       0    RND       7
+   313      111       0    RND       4
+   314       20       0    SQRL      9
+   315       81       0    SQRL      4
+   316       39       0    SQRL      9
+   317       28       0    SQRL      2
+   318       59       0    SQRL      4
+   320      78.74       0    SQRL      4
+   321       77       0    RND       2
+   322        5       0    LINE
+   323      110       0    SQRL      6
+   324       70       0    SQRL      2
+   325       85       0    RND       5
+   326       60       0    RND       4
+   327       85       0    SQR       1
+   328      86.61       0    SQRL      2
+   329       91       0    LINE
+   330       32       0    SQRL    104
+   331       12       0    SQRL     44
+   333        6       0    LINE
+   334       15       0    LINE
+   335       25       0    LINE
+   342       35       0    LINE
+   343        8       0    LINE
+   344       11       0    LINE
+   345       22       0    LINE
+   353        7       0    LINE
+   356      2.5       0    LINE
+   357      3.5       0    LINE
+   360       20       0    LINE
+   457      7.9       0    LINE
+   458       30       0    LINE
+   460       17       0    SQRL      2
+   461      100       0    SQRL      2
+   462       71       0    SQRL      2
+   463       36       0    SQRL      6
+   466      27.56       0    SQRL    394
+   467      47.24       0    SQRL      4
+   468      86.61       0    SQRL     12
+   469      39.37       0    SQRL      4
+   470      78.74       0    SQRL      2
+   471      11.81       0    LINE
+   472      11.81       0    LINE
+   473      9.84       0    LINE
+
+
+
+
+
