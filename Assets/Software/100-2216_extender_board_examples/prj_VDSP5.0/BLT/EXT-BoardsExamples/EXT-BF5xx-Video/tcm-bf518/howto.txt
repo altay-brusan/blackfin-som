@@ -1,0 +1,65 @@
++++ How to use the Video Extender Board V1.1 with a BF533 Core Module +++
+
+First of all, when applying the CM-BF533 make sure switches
+S4 and S5 are set as follows:
+   S4 = 0
+   S5 = 0
+
+Each Ext-Video board has one analog-video decoder and one 
+encoder. When applying the CM-BF533 the Ext-Video board supports 
+two different modes:
+
+Mode 1: The port and clock lines of decoder and encoder are
+        directly linked together, so the video source attached
+        to the video input of the board is directly displayed
+        at the outputs entirely omitting the processor. However
+        the processor can still capture the video input signal.
+        To set up this mode set switches S1, S2 and S3 as 
+        follows:
+           S1 = 1 on all other off
+           S2 = all OFF
+           S3 = all ON
+
+Mode 2: The decoder is connected with its port and clock lines
+        to the Blackfin's PPI1 port, the encoder to the PPI2
+        port. The processor can capture video input and generate
+        video output simultaneously and independently.
+        To set up this mode set switches S1, S2 and S3 as 
+        follows:
+           S1 = 1 on all other off
+           S2 = all ON
+           S3 = all OFF
+
+
+
+The example application included can operate in many different 
+ways (Comment/uncomment the according sections in "Environment.h" 
+to choose one):
+
+ + Direct Loop through: The decoder and encoder are initialised
+                        accordigly but the video stream is 
+                        entirely omitting the processor.Uncomment 
+                        _USE_DIRECT_LOOP_THROUGH_ in 
+                        "Environment.h" to test this application *
+ + Testpicture: Display the standard test pictures contained in 
+                testpic.c and testpic2.c. Uncomment 
+                _USE_TEST_PICTURES_ in "Environment.h" to test 
+                this application **
+ + Take Picture: Grab an image from the input video stream and 
+                 store it into RAM. Uncomment _USE_TAKE_PICTURE_ 
+                 in "Environment.h" to test this application. *
+
+
+*) Note: These modes require a video source to be connected as
+   input. The software will automatically determine, which video
+   input the source is connected to. However analog video is not 
+   intended to be hot-pluggable, so it's not recommended to attach
+   or remove live input plugs while the processor is running.
+
+**)Do not try and open testpic.c in the VisualDSP++ embedded 
+   editor. The file is about 8MB large and might hang the IDE 
+   when opened.
+
+Note: During operation all three video output sockets (SVideo-OUT,
+CVBS0-OUT and CVBS1-OUT) are active and output the same video 
+signal.
