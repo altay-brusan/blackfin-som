@@ -304,6 +304,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB_6Layer.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Company
 Value=Mars Robotics
@@ -443,7 +447,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon G4000 series
+TargetPrinter=Canon G4000 series (Copy 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
