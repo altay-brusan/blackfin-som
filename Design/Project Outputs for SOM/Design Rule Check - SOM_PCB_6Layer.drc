@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\SOM_PCB_6Layer.PcbDoc
+Date     : 1/17/2021
+Time     : 7:49:32 PM
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=15mil) (Preferred=5mil) (WithinRoom('BGA'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=35mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=10mil) (Conductor Width=20mil) (Air Gap=4mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=5mil) (Air Gap=10mil) (Entries=4) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=250mil) (InNetClass('FLASH_A[1..24]'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=60mil) (InNetClass('DDR_D[0..15]'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=250mil) (InNetClass('DDR_RES_D[0..15]'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=100mil) (InNetClass('FLASH_DATA'))
+Rule Violations :0
+
+Processing Rule : Room BGA (Bounding Region = (2966.752mil, 2261.24mil, 3681.752mil, 2976.24mil) (InComponentClass('Room Definition 1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

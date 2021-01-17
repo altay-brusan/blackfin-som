@@ -292,19 +292,56 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVJUAJEL
 
+[Document16]
+DocumentPath=SOM_PCB_BLUETECHNIX.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KWGHAJQY
+
+[ProjectVariant1]
+UniqueID=EB0831F2-06B5-4608-9741-84FE2C7CB637
+Description=Bluetechnix dimension
+AllowFabrication=1
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=U4|UniqueId=\KYCVIVQN|Kind=2|AlternatePart=CM-BF548|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CM-BF548_ORIGINAL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CM-BF548-ORIGIN|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=CM-BF548
+ParamDesignator1=U4
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=U4
+ParamVariation3=ParameterName=Description|VariantValue= 
+ParamDesignator3=U4
+ParamVariation4=ParameterName=Footprint|VariantValue=CM-BF548-ORIGIN
+ParamDesignator4=U4
+ParamVariation5=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator5=U4
+ParamVariation6=ParameterName=Library Reference|VariantValue=CM-BF548_ORIGINAL
+ParamDesignator6=U4
+ParamVariation7=ParameterName=PCB3D|VariantValue= 
+ParamDesignator7=U4
+ParamVariation8=ParameterName=Pin Info|VariantValue= 
+ParamDesignator8=U4
+ParamVariation9=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator9=U4
+ParamVariation10=ParameterName=Simulation|VariantValue= 
+ParamDesignator10=U4
+Variation2=Designator=C1|UniqueId=\YFMUFXWU|Kind=0|AlternatePart= 
+ParamVariation11=ParameterName=Case\Package|VariantValue= 
+ParamDesignator11=C1
+ParamVariationCount=11
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SOM\BGA Escape Route - SOM_PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SOM\BGA Escape Route - SOM_PCB_6Layer.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB_6Layer.html
 DItemRevisionGUID=
 
@@ -447,7 +484,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon G4000 series (Copy 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
