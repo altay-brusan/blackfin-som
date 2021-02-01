@@ -1,0 +1,15 @@
+%FSTAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD109C,0.001000*%
+%LNsom_pcb_bluetechnix_profile-1*%
+%LPD*%
+G54D109*
+X0Y0D02*
+Y0162D01*
+X01225*
+Y0*
+X0*
+M02*

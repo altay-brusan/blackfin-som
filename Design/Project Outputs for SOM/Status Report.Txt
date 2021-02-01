@@ -1,0 +1,24 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SOM.PrjPcb]
+   Generated File[SOM_PCB_BLUETECHNIX.TXT]
+   Generated File[SOM_PCB_BLUETECHNIX.TX1]
+   Generated File[SOM_PCB_BLUETECHNIX.TX2]
+   Generated File[SOM_PCB_BLUETECHNIX.TX3]
+   Generated File[SOM_PCB_BLUETECHNIX.TX4]
+   Generated File[SOM_PCB_BLUETECHNIX.TX5]
+   Generated File[SOM_PCB_BLUETECHNIX.TX6]
+   Generated File[SOM_PCB_BLUETECHNIX.TX7]
+   Generated File[SOM_PCB_BLUETECHNIX.TX8]
+   Generated File[SOM_PCB_BLUETECHNIX.TX9]
+   Generated File[SOM_PCB_BLUETECHNIX.TX10]
+   Generated File[SOM_PCB_BLUETECHNIX.TX11]
+   Generated File[SOM_PCB_BLUETECHNIX.TX12]
+   Generated File[SOM_PCB_BLUETECHNIX.LDP]
+   Generated File[SOM_PCB_BLUETECHNIX.DRR]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 12:45:48 PM On 2/1/2021

@@ -1,0 +1,132 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SOM_PCB_BLUETECHNIX.PcbDoc   2/1/2021  12:45:48 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             44        PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             3         PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              63
+Layer Pair : Top Layer to Int1 (Sign)
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      7mil (0.178mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T2      8mil (0.203mm)                                            Round             49        PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             13        PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              67
+Layer Pair : Top Layer to Int3 (Sign)
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             53        PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             25        PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             8         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              86
+Layer Pair : Top Layer to Int4 (Sign)
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             33        PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             19        PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             10        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              62
+Layer Pair : Top Layer to Int6 (Sign)
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             11        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              24
+Layer Pair : Top Layer to Int2 (GND)
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX5
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             68        PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             6         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              78
+Layer Pair : Top Layer to Int5 (PWR)
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX6
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T3      10mil (0.254mm)                                           Round             40        PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              42
+Layer Pair : Int1 (Sign) to Bottom Layer
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX7
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      12mil (0.305mm)                                           Round             5         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              5
+Layer Pair : Int3 (Sign) to Bottom Layer
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX8
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      12mil (0.305mm)                                           Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              4
+Layer Pair : Int4 (Sign) to Bottom Layer
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX9
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             17        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              23
+Layer Pair : Int6 (Sign) to Bottom Layer
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX10
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             22        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              24
+Layer Pair : Int2 (GND) to Bottom Layer
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX11
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T3      10mil (0.254mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T4      12mil (0.305mm)                                           Round             16        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              23
+Layer Pair : Int5 (PWR) to Bottom Layer
+ASCII RoundHoles File : SOM_PCB_BLUETECHNIX.TX12
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              504
+
+Total Processing Time (hh:mm:ss) : 00:00:00

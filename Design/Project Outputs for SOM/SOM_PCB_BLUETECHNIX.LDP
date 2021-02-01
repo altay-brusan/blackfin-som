@@ -1,0 +1,14 @@
+Layer Pairs Export File for PCB: D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\SOM_PCB_BLUETECHNIX.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=som_pcb_bluetechnix.txt|DrillLayers=gtl,g1,gp1,g2,g3,gp2,g4,gbl
+LayersSetName=Top_Int1 (Sign)_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_Int3 (Sign)_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx2|DrillLayers=gtl,g1,gp1,g2
+LayersSetName=Top_Int4 (Sign)_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx3|DrillLayers=gtl,g1,gp1,g2,g3
+LayersSetName=Top_Int6 (Sign)_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx4|DrillLayers=gtl,g1,gp1,g2,g3,gp2,g4
+LayersSetName=Top_Int2 (GND)_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx5|DrillLayers=gtl,g1,gp1
+LayersSetName=Top_Int5 (PWR)_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx6|DrillLayers=gtl,g1,gp1,g2,g3,gp2
+LayersSetName=Int1 (Sign)_Bot_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx7|DrillLayers=g1,gp1,g2,g3,gp2,g4,gbl
+LayersSetName=Int3 (Sign)_Bot_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx8|DrillLayers=g2,g3,gp2,g4,gbl
+LayersSetName=Int4 (Sign)_Bot_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx9|DrillLayers=g3,gp2,g4,gbl
+LayersSetName=Int6 (Sign)_Bot_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx10|DrillLayers=g4,gbl
+LayersSetName=Int2 (GND)_Bot_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx11|DrillLayers=gp1,g2,g3,gp2,g4,gbl
+LayersSetName=Int5 (PWR)_Bot_Blind_Vias|DrillFile=som_pcb_bluetechnix.tx12|DrillLayers=gp2,g4,gbl

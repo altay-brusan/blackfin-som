@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for SOM
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -307,10 +307,44 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KWGHAJQY
+DocumentUniqueId=ACIOUULU
 
 [Document17]
 DocumentPath=PDFJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -331,7 +365,7 @@ UniqueID=EB0831F2-06B5-4608-9741-84FE2C7CB637
 Description=Bluetechnix dimension
 AllowFabrication=1
 ParameterCount=0
-VariationCount=2
+VariationCount=12
 Variation1=Designator=U4|UniqueId=\KYCVIVQN|Kind=2|AlternatePart=CM-BF548|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=CM-BF548_ORIGINAL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CM-BF548-ORIGIN|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue=CM-BF548
 ParamDesignator1=U4
@@ -356,10 +390,652 @@ ParamDesignator10=U4
 Variation2=Designator=C1|UniqueId=\YFMUFXWU|Kind=0|AlternatePart= 
 ParamVariation11=ParameterName=Case\Package|VariantValue= 
 ParamDesignator11=C1
-ParamVariationCount=11
+Variation3=Designator=RN1|UniqueId=\FVZEJYWB|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation12=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator12=RN1
+ParamVariation13=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator13=RN1
+ParamVariation14=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator14=RN1
+ParamVariation15=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator15=RN1
+ParamVariation16=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator16=RN1
+ParamVariation17=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator17=RN1
+ParamVariation18=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator18=RN1
+ParamVariation19=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator19=RN1
+ParamVariation20=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator20=RN1
+ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamDesignator21=RN1
+ParamVariation22=ParameterName=Pin Info|VariantValue= 
+ParamDesignator22=RN1
+ParamVariation23=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator23=RN1
+ParamVariation24=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator24=RN1
+ParamVariation25=ParameterName=Simulation|VariantValue= 
+ParamDesignator25=RN1
+ParamVariation26=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator26=RN1
+Variation4=Designator=RN2|UniqueId=\HFRROGCG|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation27=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator27=RN2
+ParamVariation28=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator28=RN2
+ParamVariation29=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator29=RN2
+ParamVariation30=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator30=RN2
+ParamVariation31=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator31=RN2
+ParamVariation32=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator32=RN2
+ParamVariation33=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator33=RN2
+ParamVariation34=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator34=RN2
+ParamVariation35=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator35=RN2
+ParamVariation36=ParameterName=PCB3D|VariantValue= 
+ParamDesignator36=RN2
+ParamVariation37=ParameterName=Pin Info|VariantValue= 
+ParamDesignator37=RN2
+ParamVariation38=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator38=RN2
+ParamVariation39=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator39=RN2
+ParamVariation40=ParameterName=Simulation|VariantValue= 
+ParamDesignator40=RN2
+ParamVariation41=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator41=RN2
+Variation5=Designator=RN3|UniqueId=\DXZSUVCR|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation42=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator42=RN3
+ParamVariation43=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator43=RN3
+ParamVariation44=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator44=RN3
+ParamVariation45=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator45=RN3
+ParamVariation46=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator46=RN3
+ParamVariation47=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator47=RN3
+ParamVariation48=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator48=RN3
+ParamVariation49=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator49=RN3
+ParamVariation50=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator50=RN3
+ParamVariation51=ParameterName=PCB3D|VariantValue= 
+ParamDesignator51=RN3
+ParamVariation52=ParameterName=Pin Info|VariantValue= 
+ParamDesignator52=RN3
+ParamVariation53=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator53=RN3
+ParamVariation54=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator54=RN3
+ParamVariation55=ParameterName=Simulation|VariantValue= 
+ParamDesignator55=RN3
+ParamVariation56=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator56=RN3
+Variation6=Designator=RN4|UniqueId=\CISUIRNA|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation57=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator57=RN4
+ParamVariation58=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator58=RN4
+ParamVariation59=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator59=RN4
+ParamVariation60=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator60=RN4
+ParamVariation61=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator61=RN4
+ParamVariation62=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator62=RN4
+ParamVariation63=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator63=RN4
+ParamVariation64=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator64=RN4
+ParamVariation65=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator65=RN4
+ParamVariation66=ParameterName=PCB3D|VariantValue= 
+ParamDesignator66=RN4
+ParamVariation67=ParameterName=Pin Info|VariantValue= 
+ParamDesignator67=RN4
+ParamVariation68=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator68=RN4
+ParamVariation69=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator69=RN4
+ParamVariation70=ParameterName=Simulation|VariantValue= 
+ParamDesignator70=RN4
+ParamVariation71=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator71=RN4
+Variation7=Designator=RN5|UniqueId=\GQNMENQU|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation72=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator72=RN5
+ParamVariation73=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator73=RN5
+ParamVariation74=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator74=RN5
+ParamVariation75=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator75=RN5
+ParamVariation76=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator76=RN5
+ParamVariation77=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator77=RN5
+ParamVariation78=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator78=RN5
+ParamVariation79=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator79=RN5
+ParamVariation80=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator80=RN5
+ParamVariation81=ParameterName=PCB3D|VariantValue= 
+ParamDesignator81=RN5
+ParamVariation82=ParameterName=Pin Info|VariantValue= 
+ParamDesignator82=RN5
+ParamVariation83=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator83=RN5
+ParamVariation84=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator84=RN5
+ParamVariation85=ParameterName=Simulation|VariantValue= 
+ParamDesignator85=RN5
+ParamVariation86=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator86=RN5
+Variation8=Designator=RN6|UniqueId=\RYEATYWD|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation87=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator87=RN6
+ParamVariation88=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator88=RN6
+ParamVariation89=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator89=RN6
+ParamVariation90=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator90=RN6
+ParamVariation91=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator91=RN6
+ParamVariation92=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator92=RN6
+ParamVariation93=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator93=RN6
+ParamVariation94=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator94=RN6
+ParamVariation95=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator95=RN6
+ParamVariation96=ParameterName=PCB3D|VariantValue= 
+ParamDesignator96=RN6
+ParamVariation97=ParameterName=Pin Info|VariantValue= 
+ParamDesignator97=RN6
+ParamVariation98=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator98=RN6
+ParamVariation99=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator99=RN6
+ParamVariation100=ParameterName=Simulation|VariantValue= 
+ParamDesignator100=RN6
+ParamVariation101=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator101=RN6
+Variation9=Designator=RN8|UniqueId=\TZAQPACJ|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation102=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator102=RN8
+ParamVariation103=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator103=RN8
+ParamVariation104=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator104=RN8
+ParamVariation105=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator105=RN8
+ParamVariation106=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator106=RN8
+ParamVariation107=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator107=RN8
+ParamVariation108=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator108=RN8
+ParamVariation109=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator109=RN8
+ParamVariation110=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator110=RN8
+ParamVariation111=ParameterName=PCB3D|VariantValue= 
+ParamDesignator111=RN8
+ParamVariation112=ParameterName=Pin Info|VariantValue= 
+ParamDesignator112=RN8
+ParamVariation113=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator113=RN8
+ParamVariation114=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator114=RN8
+ParamVariation115=ParameterName=Simulation|VariantValue= 
+ParamDesignator115=RN8
+ParamVariation116=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator116=RN8
+Variation10=Designator=RN10|UniqueId=\YBTDNKPM|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation117=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator117=RN10
+ParamVariation118=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator118=RN10
+ParamVariation119=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator119=RN10
+ParamVariation120=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator120=RN10
+ParamVariation121=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator121=RN10
+ParamVariation122=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator122=RN10
+ParamVariation123=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator123=RN10
+ParamVariation124=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator124=RN10
+ParamVariation125=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator125=RN10
+ParamVariation126=ParameterName=PCB3D|VariantValue= 
+ParamDesignator126=RN10
+ParamVariation127=ParameterName=Pin Info|VariantValue= 
+ParamDesignator127=RN10
+ParamVariation128=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator128=RN10
+ParamVariation129=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator129=RN10
+ParamVariation130=ParameterName=Simulation|VariantValue= 
+ParamDesignator130=RN10
+ParamVariation131=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator131=RN10
+Variation11=Designator=RN7|UniqueId=\EJJMSGPY|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation132=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator132=RN7
+ParamVariation133=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator133=RN7
+ParamVariation134=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator134=RN7
+ParamVariation135=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator135=RN7
+ParamVariation136=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator136=RN7
+ParamVariation137=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator137=RN7
+ParamVariation138=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator138=RN7
+ParamVariation139=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator139=RN7
+ParamVariation140=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator140=RN7
+ParamVariation141=ParameterName=PCB3D|VariantValue= 
+ParamDesignator141=RN7
+ParamVariation142=ParameterName=Pin Info|VariantValue= 
+ParamDesignator142=RN7
+ParamVariation143=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator143=RN7
+ParamVariation144=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator144=RN7
+ParamVariation145=ParameterName=Simulation|VariantValue= 
+ParamDesignator145=RN7
+ParamVariation146=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator146=RN7
+Variation12=Designator=RN9|UniqueId=\BDLUODMI|Kind=2|AlternatePart=YC124-FR-0722RL|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\BlackfinSOM.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=YC124-FR-0722RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=BlackfinSOM.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESCAXS50P200X100X55-8N|AltLibLink_IsSameFootprint=False
+ParamVariation147=ParameterName=Comment|VariantValue=YC124-FR-0722RL
+ParamDesignator147=RN9
+ParamVariation148=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator148=RN9
+ParamVariation149=ParameterName=Description|VariantValue=22 Ohm ±5% 62.5mW Power Per Element Isolated Resistor Network/Array ±200ppm/°C 1206 (3216 Metric), Convex, Long Side Terminals
+ParamDesignator149=RN9
+ParamVariation150=ParameterName=Digi-Key Part Number|VariantValue=YC124-FR-0722RL
+ParamDesignator150=RN9
+ParamVariation151=ParameterName=Footprint|VariantValue=RESCAXS50P200X100X55-8N
+ParamDesignator151=RN9
+ParamVariation152=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator152=RN9
+ParamVariation153=ParameterName=Library Reference|VariantValue=YC124-FR-0722RL
+ParamDesignator153=RN9
+ParamVariation154=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator154=RN9
+ParamVariation155=ParameterName=Manufacturer Product Number|VariantValue=YC124-FR-0722RL
+ParamDesignator155=RN9
+ParamVariation156=ParameterName=PCB3D|VariantValue= 
+ParamDesignator156=RN9
+ParamVariation157=ParameterName=Pin Info|VariantValue= 
+ParamDesignator157=RN9
+ParamVariation158=ParameterName=Power Per Element|VariantValue=62.5mW
+ParamDesignator158=RN9
+ParamVariation159=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator159=RN9
+ParamVariation160=ParameterName=Simulation|VariantValue= 
+ParamDesignator160=RN9
+ParamVariation161=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator161=RN9
+ParamVariationCount=161
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB_6Layer.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB_BLUETECHNIX.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.REP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX5
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX6
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX7
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX8
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX9
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX10
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX11
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX12
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Plane_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Plane_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_10.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_12.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_10.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_12.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_2_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_3_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_4_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_5_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_6_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_7_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]
@@ -393,7 +1069,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=Project Outputs for SOM
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -608,71 +1284,79 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CompositeDrill
-OutputName1=Composite Drill Drawing
+OutputType1=Drill
+OutputName1=Drill Drawing/Guides
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType2=Drill
-OutputName2=Drill Drawing/Guides
+OutputType2=Final
+OutputName2=Final Artwork Prints
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType3=Final
-OutputName3=Final Artwork Prints
+OutputType3=CompositeDrill
+OutputName3=Composite Drill Drawing
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType4=Gerber
-OutputName4=Gerber Files
+OutputType4=Mask
+OutputName4=Solder/Paste Mask Prints
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-OutputType5=Mask
-OutputName5=Solder/Paste Mask Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType5=NC Drill
+OutputName5=NC Drill Files
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType6=NC Drill
-OutputName6=NC Drill Files
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+OutputType6=Board Stack Report
+OutputName6=Report Board Stack
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=ODB
-OutputName7=ODB++ Files
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Plane
+OutputName7=Power-Plane Prints
 OutputDocumentPath7=
-OutputVariantName7=[No Variations]
+OutputVariantName7=
 OutputDefault7=0
-OutputType8=Plane
-OutputName8=Power-Plane Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType8=Test Points
+OutputName8=Test Point Report
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType9=Test Points
-OutputName9=Test Point Report
+OutputType9=ODB
+OutputName9=ODB++ Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=Board Stack Report
-OutputName10=Report Board Stack
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=Gerber X2
-OutputName11=Gerber X2 Files
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_HighLayer=Mid Layer 1|PlotBlindViasPair0_LowLayer=Top Layer|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_DrillType=Regular|PlotBlindViasPair1_HighLayer=Mid Layer 2|PlotBlindViasPair1_LowLayer=Top Layer|PlotBlindViasPair10_Backdrill=False|PlotBlindViasPair10_DrillType=Regular|PlotBlindViasPair10_HighLayer=Bottom Layer|PlotBlindViasPair10_LowLayer=Internal Plane 1|PlotBlindViasPair11_Backdrill=False|PlotBlindViasPair11_DrillType=Regular|PlotBlindViasPair11_HighLayer=Bottom Layer|PlotBlindViasPair11_LowLayer=Internal Plane 2|PlotBlindViasPair2_Backdrill=False|PlotBlindViasPair2_DrillType=Regular|PlotBlindViasPair2_HighLayer=Mid Layer 3|PlotBlindViasPair2_LowLayer=Top Layer|PlotBlindViasPair3_Backdrill=False|PlotBlindViasPair3_DrillType=Regular|PlotBlindViasPair3_HighLayer=Mid Layer 4|PlotBlindViasPair3_LowLayer=Top Layer|PlotBlindViasPair4_Backdrill=False|PlotBlindViasPair4_DrillType=Regular|PlotBlindViasPair4_HighLayer=Internal Plane 1|PlotBlindViasPair4_LowLayer=Top Layer|PlotBlindViasPair5_Backdrill=False|PlotBlindViasPair5_DrillType=Regular|PlotBlindViasPair5_HighLayer=Internal Plane 2|PlotBlindViasPair5_LowLayer=Top Layer|PlotBlindViasPair6_Backdrill=False|PlotBlindViasPair6_DrillType=Regular|PlotBlindViasPair6_HighLayer=Bottom Layer|PlotBlindViasPair6_LowLayer=Mid Layer 1|PlotBlindViasPair7_Backdrill=False|PlotBlindViasPair7_DrillType=Regular|PlotBlindViasPair7_HighLayer=Bottom Layer|PlotBlindViasPair7_LowLayer=Mid Layer 2|PlotBlindViasPair8_Backdrill=False|PlotBlindViasPair8_DrillType=Regular|PlotBlindViasPair8_HighLayer=Bottom Layer|PlotBlindViasPair8_LowLayer=Mid Layer 3|PlotBlindViasPair9_Backdrill=False|PlotBlindViasPair9_DrillType=Regular|PlotBlindViasPair9_HighLayer=Bottom Layer|PlotBlindViasPair9_LowLayer=Mid Layer 4|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_DrillType=Regular|PlotDrillDrawingPair1_HighLayer=Mid Layer 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair10_Backdrill=False|PlotDrillDrawingPair10_DrillType=Regular|PlotDrillDrawingPair10_HighLayer=Bottom Layer|PlotDrillDrawingPair10_LowLayer=Mid Layer 4|PlotDrillDrawingPair11_Backdrill=False|PlotDrillDrawingPair11_DrillType=Regular|PlotDrillDrawingPair11_HighLayer=Bottom Layer|PlotDrillDrawingPair11_LowLayer=Internal Plane 1|PlotDrillDrawingPair12_Backdrill=False|PlotDrillDrawingPair12_DrillType=Regular|PlotDrillDrawingPair12_HighLayer=Bottom Layer|PlotDrillDrawingPair12_LowLayer=Internal Plane 2|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_HighLayer=Mid Layer 2|PlotDrillDrawingPair2_LowLayer=Top Layer|PlotDrillDrawingPair3_Backdrill=False|PlotDrillDrawingPair3_DrillType=Regular|PlotDrillDrawingPair3_HighLayer=Mid Layer 3|PlotDrillDrawingPair3_LowLayer=Top Layer|PlotDrillDrawingPair4_Backdrill=False|PlotDrillDrawingPair4_DrillType=Regular|PlotDrillDrawingPair4_HighLayer=Mid Layer 4|PlotDrillDrawingPair4_LowLayer=Top Layer|PlotDrillDrawingPair5_Backdrill=False|PlotDrillDrawingPair5_DrillType=Regular|PlotDrillDrawingPair5_HighLayer=Internal Plane 1|PlotDrillDrawingPair5_LowLayer=Top Layer|PlotDrillDrawingPair6_Backdrill=False|PlotDrillDrawingPair6_DrillType=Regular|PlotDrillDrawingPair6_HighLayer=Internal Plane 2|PlotDrillDrawingPair6_LowLayer=Top Layer|PlotDrillDrawingPair7_Backdrill=False|PlotDrillDrawingPair7_DrillType=Regular|PlotDrillDrawingPair7_HighLayer=Bottom Layer|PlotDrillDrawingPair7_LowLayer=Mid Layer 1|PlotDrillDrawingPair8_Backdrill=False|PlotDrillDrawingPair8_DrillType=Regular|PlotDrillDrawingPair8_HighLayer=Bottom Layer|PlotDrillDrawingPair8_LowLayer=Mid Layer 2|PlotDrillDrawingPair9_Backdrill=False|PlotDrillDrawingPair9_DrillType=Regular|PlotDrillDrawingPair9_HighLayer=Bottom Layer|PlotDrillDrawingPair9_LowLayer=Mid Layer 3|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair1_Backdrill=False|PlotDrillGuidePair1_DrillType=Regular|PlotDrillGuidePair1_HighLayer=Mid Layer 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair10_Backdrill=False|PlotDrillGuidePair10_DrillType=Regular|PlotDrillGuidePair10_HighLayer=Bottom Layer|PlotDrillGuidePair10_LowLayer=Mid Layer 4|PlotDrillGuidePair11_Backdrill=False|PlotDrillGuidePair11_DrillType=Regular|PlotDrillGuidePair11_HighLayer=Bottom Layer|PlotDrillGuidePair11_LowLayer=Internal Plane 1|PlotDrillGuidePair12_Backdrill=False|PlotDrillGuidePair12_DrillType=Regular|PlotDrillGuidePair12_HighLayer=Bottom Layer|PlotDrillGuidePair12_LowLayer=Internal Plane 2|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_HighLayer=Mid Layer 2|PlotDrillGuidePair2_LowLayer=Top Layer|PlotDrillGuidePair3_Backdrill=False|PlotDrillGuidePair3_DrillType=Regular|PlotDrillGuidePair3_HighLayer=Mid Layer 3|PlotDrillGuidePair3_LowLayer=Top Layer|PlotDrillGuidePair4_Backdrill=False|PlotDrillGuidePair4_DrillType=Regular|PlotDrillGuidePair4_HighLayer=Mid Layer 4|PlotDrillGuidePair4_LowLayer=Top Layer|PlotDrillGuidePair5_Backdrill=False|PlotDrillGuidePair5_DrillType=Regular|PlotDrillGuidePair5_HighLayer=Internal Plane 1|PlotDrillGuidePair5_LowLayer=Top Layer|PlotDrillGuidePair6_Backdrill=False|PlotDrillGuidePair6_DrillType=Regular|PlotDrillGuidePair6_HighLayer=Internal Plane 2|PlotDrillGuidePair6_LowLayer=Top Layer|PlotDrillGuidePair7_Backdrill=False|PlotDrillGuidePair7_DrillType=Regular|PlotDrillGuidePair7_HighLayer=Bottom Layer|PlotDrillGuidePair7_LowLayer=Mid Layer 1|PlotDrillGuidePair8_Backdrill=False|PlotDrillGuidePair8_DrillType=Regular|PlotDrillGuidePair8_HighLayer=Bottom Layer|PlotDrillGuidePair8_LowLayer=Mid Layer 2|PlotDrillGuidePair9_Backdrill=False|PlotDrillGuidePair9_DrillType=Regular|PlotDrillGuidePair9_HighLayer=Bottom Layer|PlotDrillGuidePair9_LowLayer=Mid Layer 3|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16842754~1,16908301~1,16777219~1,16973831~1,16973849~1,16908290~1,16777221~1,16777220~1,16973835~1,16973830~1,16973832~1,16842751~1,16973833~1,16908293~1,16908289~1,16973834~1,16777218~1,16842753~1,16973837~1,16973848~1,16908303~1,16908294~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
+OutputType11=IPC2581
+OutputName11=IPC-2581 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=IPC2581
-OutputName12=IPC-2581 Files
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]
@@ -924,36 +1608,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
