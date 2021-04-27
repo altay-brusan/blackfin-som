@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -327,7 +329,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=CAMtastic_NCD_BLUETECHNIX.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -344,7 +346,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=CAMtastic_GRB_BLUETECHNIX.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -703,338 +705,598 @@ ParamDesignator161=RN9
 ParamVariationCount=161
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB_6Layer.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for SOM\Design Rule Check - SOM_PCB_BLUETECHNIX.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer.DRR
+DItemRevisionGUID=
+
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.DRR
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.EXTREP
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.LDP
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer.REP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.REP
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.RUL
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX1
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX2
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX3
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX4
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX5
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX6
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX7
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX8
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX9
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX10
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX11
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX12
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TXT
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_7.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Plane_1.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_8.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Plane_2.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_9.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_10.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_11.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_3.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_12.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_4.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drawing_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_1.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_2.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_3.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_4.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_5.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_7.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_6.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_8.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_7.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_9.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_10.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_9.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_11.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_10.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_12.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_11.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Drillmap_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_12.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_13.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_1.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_2.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_3.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_4.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Mechanical_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_5.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Mechanical_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_6.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_7.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_9.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_10.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_11.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_12.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_13.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_1_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Keep-out.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_1_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Legend_Bot.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_1_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Legend_Top.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_1_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_1.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_1_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_2.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_2_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_5.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_3_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_6.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_4_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_13.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_5_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_15.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Plated_Drill_6_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_NPTH_Drill.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Pads_Bot.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Pads_Top.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Paste_Bot.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_6Layer_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Paste_Top.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_2.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_3.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_4.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.REP
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_5.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_6.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_7.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_2_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_3_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX4
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_4_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX5
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_5_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX6
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_6_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX7
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_7_8.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX8
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Profile.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX9
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_PTH_Drill.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX10
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX11
 DItemRevisionGUID=
 
 [GeneratedDocument84]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TX12
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Plane_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Plane_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_10.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_12.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drawing_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_9.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_10.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_12.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Drillmap_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_1_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_2_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_3_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_4_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_5_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_6_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Plated_Drill_7_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument149]
 DocumentPath=Project Outputs for SOM\SOM_PCB_BLUETECHNIX_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -1316,7 +1578,7 @@ OutputDefault5=0
 Configuration5_Name1=ForceUpdateSettings
 Configuration5_Item1=False
 Configuration5_Name2=OutputConfigurationParameter1
-Configuration5_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration5_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\SOM_PCB_BLUETECHNIX.PcbDoc
 OutputType6=Board Stack Report
 OutputName6=Report Board Stack
 OutputDocumentPath6=
@@ -1347,7 +1609,7 @@ OutputDefault10=0
 Configuration10_Name1=ForceUpdateSettings
 Configuration10_Item1=False
 Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_HighLayer=Mid Layer 1|PlotBlindViasPair0_LowLayer=Top Layer|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_DrillType=Regular|PlotBlindViasPair1_HighLayer=Mid Layer 2|PlotBlindViasPair1_LowLayer=Top Layer|PlotBlindViasPair10_Backdrill=False|PlotBlindViasPair10_DrillType=Regular|PlotBlindViasPair10_HighLayer=Bottom Layer|PlotBlindViasPair10_LowLayer=Internal Plane 1|PlotBlindViasPair11_Backdrill=False|PlotBlindViasPair11_DrillType=Regular|PlotBlindViasPair11_HighLayer=Bottom Layer|PlotBlindViasPair11_LowLayer=Internal Plane 2|PlotBlindViasPair2_Backdrill=False|PlotBlindViasPair2_DrillType=Regular|PlotBlindViasPair2_HighLayer=Mid Layer 3|PlotBlindViasPair2_LowLayer=Top Layer|PlotBlindViasPair3_Backdrill=False|PlotBlindViasPair3_DrillType=Regular|PlotBlindViasPair3_HighLayer=Mid Layer 4|PlotBlindViasPair3_LowLayer=Top Layer|PlotBlindViasPair4_Backdrill=False|PlotBlindViasPair4_DrillType=Regular|PlotBlindViasPair4_HighLayer=Internal Plane 1|PlotBlindViasPair4_LowLayer=Top Layer|PlotBlindViasPair5_Backdrill=False|PlotBlindViasPair5_DrillType=Regular|PlotBlindViasPair5_HighLayer=Internal Plane 2|PlotBlindViasPair5_LowLayer=Top Layer|PlotBlindViasPair6_Backdrill=False|PlotBlindViasPair6_DrillType=Regular|PlotBlindViasPair6_HighLayer=Bottom Layer|PlotBlindViasPair6_LowLayer=Mid Layer 1|PlotBlindViasPair7_Backdrill=False|PlotBlindViasPair7_DrillType=Regular|PlotBlindViasPair7_HighLayer=Bottom Layer|PlotBlindViasPair7_LowLayer=Mid Layer 2|PlotBlindViasPair8_Backdrill=False|PlotBlindViasPair8_DrillType=Regular|PlotBlindViasPair8_HighLayer=Bottom Layer|PlotBlindViasPair8_LowLayer=Mid Layer 3|PlotBlindViasPair9_Backdrill=False|PlotBlindViasPair9_DrillType=Regular|PlotBlindViasPair9_HighLayer=Bottom Layer|PlotBlindViasPair9_LowLayer=Mid Layer 4|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_DrillType=Regular|PlotDrillDrawingPair1_HighLayer=Mid Layer 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair10_Backdrill=False|PlotDrillDrawingPair10_DrillType=Regular|PlotDrillDrawingPair10_HighLayer=Bottom Layer|PlotDrillDrawingPair10_LowLayer=Mid Layer 4|PlotDrillDrawingPair11_Backdrill=False|PlotDrillDrawingPair11_DrillType=Regular|PlotDrillDrawingPair11_HighLayer=Bottom Layer|PlotDrillDrawingPair11_LowLayer=Internal Plane 1|PlotDrillDrawingPair12_Backdrill=False|PlotDrillDrawingPair12_DrillType=Regular|PlotDrillDrawingPair12_HighLayer=Bottom Layer|PlotDrillDrawingPair12_LowLayer=Internal Plane 2|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_HighLayer=Mid Layer 2|PlotDrillDrawingPair2_LowLayer=Top Layer|PlotDrillDrawingPair3_Backdrill=False|PlotDrillDrawingPair3_DrillType=Regular|PlotDrillDrawingPair3_HighLayer=Mid Layer 3|PlotDrillDrawingPair3_LowLayer=Top Layer|PlotDrillDrawingPair4_Backdrill=False|PlotDrillDrawingPair4_DrillType=Regular|PlotDrillDrawingPair4_HighLayer=Mid Layer 4|PlotDrillDrawingPair4_LowLayer=Top Layer|PlotDrillDrawingPair5_Backdrill=False|PlotDrillDrawingPair5_DrillType=Regular|PlotDrillDrawingPair5_HighLayer=Internal Plane 1|PlotDrillDrawingPair5_LowLayer=Top Layer|PlotDrillDrawingPair6_Backdrill=False|PlotDrillDrawingPair6_DrillType=Regular|PlotDrillDrawingPair6_HighLayer=Internal Plane 2|PlotDrillDrawingPair6_LowLayer=Top Layer|PlotDrillDrawingPair7_Backdrill=False|PlotDrillDrawingPair7_DrillType=Regular|PlotDrillDrawingPair7_HighLayer=Bottom Layer|PlotDrillDrawingPair7_LowLayer=Mid Layer 1|PlotDrillDrawingPair8_Backdrill=False|PlotDrillDrawingPair8_DrillType=Regular|PlotDrillDrawingPair8_HighLayer=Bottom Layer|PlotDrillDrawingPair8_LowLayer=Mid Layer 2|PlotDrillDrawingPair9_Backdrill=False|PlotDrillDrawingPair9_DrillType=Regular|PlotDrillDrawingPair9_HighLayer=Bottom Layer|PlotDrillDrawingPair9_LowLayer=Mid Layer 3|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair1_Backdrill=False|PlotDrillGuidePair1_DrillType=Regular|PlotDrillGuidePair1_HighLayer=Mid Layer 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair10_Backdrill=False|PlotDrillGuidePair10_DrillType=Regular|PlotDrillGuidePair10_HighLayer=Bottom Layer|PlotDrillGuidePair10_LowLayer=Mid Layer 4|PlotDrillGuidePair11_Backdrill=False|PlotDrillGuidePair11_DrillType=Regular|PlotDrillGuidePair11_HighLayer=Bottom Layer|PlotDrillGuidePair11_LowLayer=Internal Plane 1|PlotDrillGuidePair12_Backdrill=False|PlotDrillGuidePair12_DrillType=Regular|PlotDrillGuidePair12_HighLayer=Bottom Layer|PlotDrillGuidePair12_LowLayer=Internal Plane 2|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_HighLayer=Mid Layer 2|PlotDrillGuidePair2_LowLayer=Top Layer|PlotDrillGuidePair3_Backdrill=False|PlotDrillGuidePair3_DrillType=Regular|PlotDrillGuidePair3_HighLayer=Mid Layer 3|PlotDrillGuidePair3_LowLayer=Top Layer|PlotDrillGuidePair4_Backdrill=False|PlotDrillGuidePair4_DrillType=Regular|PlotDrillGuidePair4_HighLayer=Mid Layer 4|PlotDrillGuidePair4_LowLayer=Top Layer|PlotDrillGuidePair5_Backdrill=False|PlotDrillGuidePair5_DrillType=Regular|PlotDrillGuidePair5_HighLayer=Internal Plane 1|PlotDrillGuidePair5_LowLayer=Top Layer|PlotDrillGuidePair6_Backdrill=False|PlotDrillGuidePair6_DrillType=Regular|PlotDrillGuidePair6_HighLayer=Internal Plane 2|PlotDrillGuidePair6_LowLayer=Top Layer|PlotDrillGuidePair7_Backdrill=False|PlotDrillGuidePair7_DrillType=Regular|PlotDrillGuidePair7_HighLayer=Bottom Layer|PlotDrillGuidePair7_LowLayer=Mid Layer 1|PlotDrillGuidePair8_Backdrill=False|PlotDrillGuidePair8_DrillType=Regular|PlotDrillGuidePair8_HighLayer=Bottom Layer|PlotDrillGuidePair8_LowLayer=Mid Layer 2|PlotDrillGuidePair9_Backdrill=False|PlotDrillGuidePair9_DrillType=Regular|PlotDrillGuidePair9_HighLayer=Bottom Layer|PlotDrillGuidePair9_LowLayer=Mid Layer 3|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16842754~1,16908301~1,16777219~1,16973831~1,16973849~1,16908290~1,16777221~1,16777220~1,16973835~1,16973830~1,16973832~1,16842751~1,16973833~1,16908293~1,16908289~1,16973834~1,16777218~1,16842753~1,16973837~1,16973848~1,16908303~1,16908294~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
+Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_DrillType=Regular|PlotBlindViasPair0_HighLayer=Mid Layer 1|PlotBlindViasPair0_LowLayer=Top Layer|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_DrillType=Regular|PlotBlindViasPair1_HighLayer=Mid Layer 2|PlotBlindViasPair1_LowLayer=Top Layer|PlotBlindViasPair10_Backdrill=False|PlotBlindViasPair10_DrillType=Regular|PlotBlindViasPair10_HighLayer=Bottom Layer|PlotBlindViasPair10_LowLayer=Internal Plane 1|PlotBlindViasPair11_Backdrill=False|PlotBlindViasPair11_DrillType=Regular|PlotBlindViasPair11_HighLayer=Bottom Layer|PlotBlindViasPair11_LowLayer=Internal Plane 2|PlotBlindViasPair2_Backdrill=False|PlotBlindViasPair2_DrillType=Regular|PlotBlindViasPair2_HighLayer=Mid Layer 3|PlotBlindViasPair2_LowLayer=Top Layer|PlotBlindViasPair3_Backdrill=False|PlotBlindViasPair3_DrillType=Regular|PlotBlindViasPair3_HighLayer=Mid Layer 4|PlotBlindViasPair3_LowLayer=Top Layer|PlotBlindViasPair4_Backdrill=False|PlotBlindViasPair4_DrillType=Regular|PlotBlindViasPair4_HighLayer=Internal Plane 1|PlotBlindViasPair4_LowLayer=Top Layer|PlotBlindViasPair5_Backdrill=False|PlotBlindViasPair5_DrillType=Regular|PlotBlindViasPair5_HighLayer=Internal Plane 2|PlotBlindViasPair5_LowLayer=Top Layer|PlotBlindViasPair6_Backdrill=False|PlotBlindViasPair6_DrillType=Regular|PlotBlindViasPair6_HighLayer=Bottom Layer|PlotBlindViasPair6_LowLayer=Mid Layer 1|PlotBlindViasPair7_Backdrill=False|PlotBlindViasPair7_DrillType=Regular|PlotBlindViasPair7_HighLayer=Bottom Layer|PlotBlindViasPair7_LowLayer=Mid Layer 2|PlotBlindViasPair8_Backdrill=False|PlotBlindViasPair8_DrillType=Regular|PlotBlindViasPair8_HighLayer=Bottom Layer|PlotBlindViasPair8_LowLayer=Mid Layer 3|PlotBlindViasPair9_Backdrill=False|PlotBlindViasPair9_DrillType=Regular|PlotBlindViasPair9_HighLayer=Bottom Layer|PlotBlindViasPair9_LowLayer=Mid Layer 4|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_DrillType=Regular|PlotDrillDrawingPair1_HighLayer=Mid Layer 1|PlotDrillDrawingPair1_LowLayer=Top Layer|PlotDrillDrawingPair10_Backdrill=False|PlotDrillDrawingPair10_DrillType=Regular|PlotDrillDrawingPair10_HighLayer=Bottom Layer|PlotDrillDrawingPair10_LowLayer=Mid Layer 4|PlotDrillDrawingPair11_Backdrill=False|PlotDrillDrawingPair11_DrillType=Regular|PlotDrillDrawingPair11_HighLayer=Bottom Layer|PlotDrillDrawingPair11_LowLayer=Internal Plane 1|PlotDrillDrawingPair12_Backdrill=False|PlotDrillDrawingPair12_DrillType=Regular|PlotDrillDrawingPair12_HighLayer=Bottom Layer|PlotDrillDrawingPair12_LowLayer=Internal Plane 2|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_DrillType=Regular|PlotDrillDrawingPair2_HighLayer=Mid Layer 2|PlotDrillDrawingPair2_LowLayer=Top Layer|PlotDrillDrawingPair3_Backdrill=False|PlotDrillDrawingPair3_DrillType=Regular|PlotDrillDrawingPair3_HighLayer=Mid Layer 3|PlotDrillDrawingPair3_LowLayer=Top Layer|PlotDrillDrawingPair4_Backdrill=False|PlotDrillDrawingPair4_DrillType=Regular|PlotDrillDrawingPair4_HighLayer=Mid Layer 4|PlotDrillDrawingPair4_LowLayer=Top Layer|PlotDrillDrawingPair5_Backdrill=False|PlotDrillDrawingPair5_DrillType=Regular|PlotDrillDrawingPair5_HighLayer=Internal Plane 1|PlotDrillDrawingPair5_LowLayer=Top Layer|PlotDrillDrawingPair6_Backdrill=False|PlotDrillDrawingPair6_DrillType=Regular|PlotDrillDrawingPair6_HighLayer=Internal Plane 2|PlotDrillDrawingPair6_LowLayer=Top Layer|PlotDrillDrawingPair7_Backdrill=False|PlotDrillDrawingPair7_DrillType=Regular|PlotDrillDrawingPair7_HighLayer=Bottom Layer|PlotDrillDrawingPair7_LowLayer=Mid Layer 1|PlotDrillDrawingPair8_Backdrill=False|PlotDrillDrawingPair8_DrillType=Regular|PlotDrillDrawingPair8_HighLayer=Bottom Layer|PlotDrillDrawingPair8_LowLayer=Mid Layer 2|PlotDrillDrawingPair9_Backdrill=False|PlotDrillDrawingPair9_DrillType=Regular|PlotDrillDrawingPair9_HighLayer=Bottom Layer|PlotDrillDrawingPair9_LowLayer=Mid Layer 3|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair1_Backdrill=False|PlotDrillGuidePair1_DrillType=Regular|PlotDrillGuidePair1_HighLayer=Mid Layer 1|PlotDrillGuidePair1_LowLayer=Top Layer|PlotDrillGuidePair10_Backdrill=False|PlotDrillGuidePair10_DrillType=Regular|PlotDrillGuidePair10_HighLayer=Bottom Layer|PlotDrillGuidePair10_LowLayer=Mid Layer 4|PlotDrillGuidePair11_Backdrill=False|PlotDrillGuidePair11_DrillType=Regular|PlotDrillGuidePair11_HighLayer=Bottom Layer|PlotDrillGuidePair11_LowLayer=Internal Plane 1|PlotDrillGuidePair12_Backdrill=False|PlotDrillGuidePair12_DrillType=Regular|PlotDrillGuidePair12_HighLayer=Bottom Layer|PlotDrillGuidePair12_LowLayer=Internal Plane 2|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_DrillType=Regular|PlotDrillGuidePair2_HighLayer=Mid Layer 2|PlotDrillGuidePair2_LowLayer=Top Layer|PlotDrillGuidePair3_Backdrill=False|PlotDrillGuidePair3_DrillType=Regular|PlotDrillGuidePair3_HighLayer=Mid Layer 3|PlotDrillGuidePair3_LowLayer=Top Layer|PlotDrillGuidePair4_Backdrill=False|PlotDrillGuidePair4_DrillType=Regular|PlotDrillGuidePair4_HighLayer=Mid Layer 4|PlotDrillGuidePair4_LowLayer=Top Layer|PlotDrillGuidePair5_Backdrill=False|PlotDrillGuidePair5_DrillType=Regular|PlotDrillGuidePair5_HighLayer=Internal Plane 1|PlotDrillGuidePair5_LowLayer=Top Layer|PlotDrillGuidePair6_Backdrill=False|PlotDrillGuidePair6_DrillType=Regular|PlotDrillGuidePair6_HighLayer=Internal Plane 2|PlotDrillGuidePair6_LowLayer=Top Layer|PlotDrillGuidePair7_Backdrill=False|PlotDrillGuidePair7_DrillType=Regular|PlotDrillGuidePair7_HighLayer=Bottom Layer|PlotDrillGuidePair7_LowLayer=Mid Layer 1|PlotDrillGuidePair8_Backdrill=False|PlotDrillGuidePair8_DrillType=Regular|PlotDrillGuidePair8_HighLayer=Bottom Layer|PlotDrillGuidePair8_LowLayer=Mid Layer 2|PlotDrillGuidePair9_Backdrill=False|PlotDrillGuidePair9_DrillType=Regular|PlotDrillGuidePair9_HighLayer=Bottom Layer|PlotDrillGuidePair9_LowLayer=Mid Layer 3|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842754~1,16908301~1,16777219~1,16973831~1,16973849~1,16908290~1,16777221~1,16777220~1,16973835~1,16973830~1,16973832~1,16842751~1,16973833~1,16908293~1,16908289~1,16973834~1,16777218~1,16842753~1,16973837~1,16973848~1,16908303~1,16908294~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=D:\embedded_systems\Projects\Pievision\BLACKFIN-SOM\Design\SOM_PCB_BLUETECHNIX.PcbDoc
 OutputType11=IPC2581
 OutputName11=IPC-2581 Files
 OutputDocumentPath11=
@@ -1949,6 +2211,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -2016,12 +2280,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1

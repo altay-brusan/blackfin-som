@@ -1,0 +1,914 @@
+*************************************************************
+FileName = SOM_PCB_6Layer.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : SOM_PCB_6Layer_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : GND+SHIELD
+      File : SOM_PCB_6Layer_Copper_Plane_1.gbr
+
+    Adding Layer      : GND+SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : MidLayer1
+      File : SOM_PCB_6Layer_Copper_Signal_1.gbr
+
+    Adding Layer      : MidLayer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D35
+    D37
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : MidLayer2
+      File : SOM_PCB_6Layer_Copper_Signal_2.gbr
+
+    Adding Layer      : MidLayer2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : SOM_PCB_6Layer_Copper_Plane_2.gbr
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : SOM_PCB_6Layer_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D27
+    D29
+    D32
+    D33
+    D35
+    D36
+    D37
+    D40
+    D42
+    D43
+    D44
+    D45
+    D46
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : SOM_PCB_6Layer_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D29
+    D32
+    D33
+    D42
+    D43
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : SOM_PCB_6Layer_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SOM_PCB_6Layer_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D41
+    D51
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SOM_PCB_6Layer_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D58
+    D59
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SOM_PCB_6Layer_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D41
+    D51
+    D60
+    D62
+    D63
+    D64
+    D65
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SOM_PCB_6Layer_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SOM_PCB_6Layer_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D29
+    D32
+    D33
+    D52
+    D53
+    D56
+    D57
+    D58
+    D59
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SOM_PCB_6Layer_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D17
+    D18
+    D19
+    D20
+    D23
+    D25
+    D31
+    D32
+    D33
+    D72
+    D73
+    D74
+    D75
+    D76
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : SOM_PCB_6Layer_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : SOM_PCB_6Layer_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D41
+    D65
+    D77
+    D90
+    D91
+    D92
+*************************************************************
+
+*************************************************************
+Generating : BORDER_LAYER
+      File : SOM_PCB_6Layer_Mechanical_2.gbr
+
+    Adding Layer      : BORDER_LAYER
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : SOM_PCB_6Layer_Mechanical_5.gbr
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : SOM_PCB_6Layer_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : SOM_PCB_6Layer_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D41
+    D60
+    D63
+    D77
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : SOM_PCB_6Layer_Mechanical_6.gbr
+
+    Adding Layer      : Mechanical 6
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : SOM_PCB_6Layer_Profile.gbr
+
+
+Used DCodes :
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : SOM_PCB_6Layer_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : SOM_PCB_6Layer_PTH_Drill.gbr
+
+
+Used DCodes :
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_1_3.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_1_4.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_1_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_1_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_1_2.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_1_5.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_3_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_4_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_6_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_6_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_2_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : SOM_PCB_6Layer_Plated_Drill_5_6.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D41
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_2.gbr
+
+    Adding Drill Pair : Top Layer-MidLayer1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_3.gbr
+
+    Adding Drill Pair : Top Layer-MidLayer2
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_4.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Layer 3
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_5.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Layer 4
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_6.gbr
+
+    Adding Drill Pair : Top Layer-GND+SHIELD
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_7.gbr
+
+    Adding Drill Pair : Top Layer-PWR
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_8.gbr
+
+    Adding Drill Pair : MidLayer1-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_9.gbr
+
+    Adding Drill Pair : MidLayer2-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_10.gbr
+
+    Adding Drill Pair : Mid-Layer 3-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_11.gbr
+
+    Adding Drill Pair : Mid-Layer 4-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_12.gbr
+
+    Adding Drill Pair : GND+SHIELD-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SOM_PCB_6Layer_Drawing_13.gbr
+
+    Adding Drill Pair : PWR-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_2.gbr
+
+    Adding Drill Pair : Top Layer-MidLayer1
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_3.gbr
+
+    Adding Drill Pair : Top Layer-MidLayer2
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_4.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Layer 3
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_5.gbr
+
+    Adding Drill Pair : Top Layer-Mid-Layer 4
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_6.gbr
+
+    Adding Drill Pair : Top Layer-GND+SHIELD
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_7.gbr
+
+    Adding Drill Pair : Top Layer-PWR
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_8.gbr
+
+    Adding Drill Pair : MidLayer1-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_9.gbr
+
+    Adding Drill Pair : MidLayer2-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_10.gbr
+
+    Adding Drill Pair : Mid-Layer 3-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_11.gbr
+
+    Adding Drill Pair : Mid-Layer 4-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_12.gbr
+
+    Adding Drill Pair : GND+SHIELD-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SOM_PCB_6Layer_Drillmap_13.gbr
+
+    Adding Drill Pair : PWR-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+*************************************************************
+

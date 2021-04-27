@@ -1,0 +1,71 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: SOM_PCB_6Layer.GBR   3/13/2021  3:03:02 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                GND+SHIELD                              
+.gbr                MidLayer1                               
+.gbr                MidLayer2                               
+.gbr                PWR                                     
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Mechanical 13                           
+.gbr                BORDER_LAYER                            
+.gbr                Mechanical 5                            
+.gbr                Mechanical 1                            
+.gbr                Mechanical 15                           
+.gbr                Mechanical 6                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

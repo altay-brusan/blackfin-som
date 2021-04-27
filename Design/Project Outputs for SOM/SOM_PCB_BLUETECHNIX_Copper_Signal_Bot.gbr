@@ -1,9 +1,9 @@
-%TF.GenerationSoftware,Altium Limited,Altium Designer,20.2.6 (244)*%
+%TF.GenerationSoftware,Altium Limited,Altium Designer,21.1.1 (26)*%
 G04 Layer_Physical_Order=8*
 G04 Layer_Color=16711680*
 %FSLAX26Y26*%
 %MOIN*%
-%TF.SameCoordinates,0845FC05-630D-4E83-8B5B-96F019AD1156*%
+%TF.SameCoordinates,0FF423ED-765F-4D1E-8EE0-B31D13BF1814*%
 %TF.FilePolarity,Positive*%
 %TF.FileFunction,Copper,L8,Bot,Signal*%
 %TF.Part,Single*%
@@ -21,7 +21,6 @@ G75*
 %TA.AperFunction,Conductor*%
 %ADD36C,0.050000*%
 %ADD39C,0.025000*%
-%TA.AperFunction,NonConductor*%
 %ADD40R,1.225000X0.025000*%
 %ADD43R,0.022795X1.615000*%
 %TA.AperFunction,ComponentPad*%
@@ -31,7 +30,7 @@ G75*
 %ADD46C,0.010000*%
 %ADD47C,0.024000*%
 %ADD48C,0.020000*%
-%ADD57C,0.022000*%
+%ADD56C,0.022000*%
 %TA.AperFunction,SMDPad,CuDef*%
 %ADD59R,0.057874X0.046457*%
 %ADD60R,0.122047X0.062992*%
@@ -50,7 +49,7 @@ G04:AMPARAMS|DCode=65|XSize=48.425mil|YSize=23.228mil|CornerRadius=5.807mil|Hole
 %
 %ADD65ROUNDEDRECTD65*%
 %ADD66R,0.033000X0.046000*%
-%TA.AperFunction,NonConductor*%
+%TA.AperFunction,Conductor*%
 %ADD67R,0.025000X1.615000*%
 %ADD68R,1.225000X0.022795*%
 G36*
@@ -2202,7 +2201,7 @@ X630748Y535748D02*
 D03*
 X693740Y472756D02*
 D03*
-D57*
+D56*
 X999140Y332174D02*
 D03*
 D59*
@@ -2691,5 +2690,5 @@ D03*
 D68*
 X612500Y13602D02*
 D03*
-%TF.MD5,edfb362ebb38cdce9c3c35291000c963*%
+%TF.MD5,8e15801d45b26d42e1b4bc565c62d2e2*%
 M02*
